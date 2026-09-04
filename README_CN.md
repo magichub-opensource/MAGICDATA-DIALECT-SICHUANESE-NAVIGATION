@@ -16,8 +16,6 @@ Magic Data 现通过 [MagicHub 开源社区](https://github.com/MagicHub-io)开�
 - **覆盖范围：** 川渝地区 15个城市
 - **录音设备：** 手机
 - **录音环境：** 安静室内
-![[Codex 图像 2026年8月31日 15_36_55.svg|156]]![[city-distribution.png|234]]
-图1 数据集采集人员性别分布图             图2 数据集采集人员城市分布图
 
 ## 数据组成
 

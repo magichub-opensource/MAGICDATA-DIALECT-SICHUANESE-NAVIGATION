@@ -1,4 +1,6 @@
-# MAGICDATA-DIALECT-SICHUANESE-NAVIGATION-川渝方言导航语音数据集
+> [English](./README.md)
+>
+> # MAGICDATA-DIALECT-SICHUANESE-NAVIGATION-川渝方言导航语音数据集
 
 Magic Data 现通过 [MagicHub 开源社区](https://github.com/MagicHub-io)开源MAGICDATA-DIALECT-SICHUANESE-NAVIGATION川渝方言导航语音识别数据集，面向开发者、研究人员和语音技术从业者开放使用。
 
@@ -63,5 +65,4 @@ MAGICDATA-DIALECT-SICHUANESE-NAVIGATION-TRAININGSET：https://magichub.com/datas
 
 如有问题或建议，欢迎在 GitHub 仓库提交 Issue，或通过电子邮件 open@magicdatatech.com 联系我们。
 
-> [English](./README.md)
 

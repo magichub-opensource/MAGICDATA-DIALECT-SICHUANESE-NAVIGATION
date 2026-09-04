@@ -66,3 +66,4 @@ License: [MAGIC DATA OPEN-SOURCE LICENSE](https://magichub.com/magic-data-open-s
 ## Contact Us
 
 If you have any questions or suggestions, please feel free to submit an Issue in the GitHub repository or contact us by email open@magicdatatech.com.
+> [中文文档](./README_CN.md)

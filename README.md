@@ -50,7 +50,9 @@ Figure 1: Gender distribution of dataset speakers ; Figure 2: City distribution 
 The dataset is available from the MagicHub open-source community:
 
 MAGICDATA-DIALECT-SICHUANESE-NAVIGATION-TESTSET-PART1: [https://magichub.com/datasets/magicdata-dialect-sichuanese-navigation-testset-part1/](https://magichub.com/datasets/magicdata-dialect-sichuanese-navigation-testset-part1/)
+
 MAGICDATA-DIALECT-SICHUANESE-NAVIGATION-TESTSET-PART2: [https://magichub.com/datasets/magicdata-dialect-sichuanese-navigation-testset-part2/](https://magichub.com/datasets/magicdata-dialect-sichuanese-navigation-testset-part2/)
+
 MAGICDATA-DIALECT-SICHUANESE-NAVIGATION-TRAININGSET: [https://magichub.com/datasets/magicdata-dialect-sichuanese-navigation-trainingset/](https://magichub.com/datasets/magicdata-dialect-sichuanese-navigation-trainingset/)
 
 ## Usage
@@ -63,4 +65,4 @@ License: [MAGIC DATA OPEN-SOURCE LICENSE](https://magichub.com/magic-data-open-s
 
 ## Contact Us
 
-If you have any questions or suggestions, please feel free to submit an Issue in the GitHub repository or contact us by emailopen@magicdatatech.com.
+If you have any questions or suggestions, please feel free to submit an Issue in the GitHub repository or contact us by email open@magicdatatech.com.

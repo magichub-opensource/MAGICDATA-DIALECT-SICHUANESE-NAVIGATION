@@ -1,3 +1,4 @@
+> [中文文档](./README_CN.md)
 # MAGICDATA-DIALECT-SICHUANESE-NAVIGATION: Sichuan–Chongqing Dialect Navigation Speech Dataset
 
 Magic Data has released the MAGICDATA-DIALECT-SICHUANESE-NAVIGATION Sichuan–Chongqing dialect navigation speech recognition dataset on the MagicHub.com, for developers, researchers, and speech technology practitioners.
@@ -63,4 +64,3 @@ License: [MAGIC DATA OPEN-SOURCE LICENSE](https://magichub.com/magic-data-open-s
 ## Contact Us
 
 If you have any questions or suggestions, please feel free to submit an Issue in the GitHub repository or contact us by email open@magicdatatech.com.
-> [中文文档](./README_CN.md)

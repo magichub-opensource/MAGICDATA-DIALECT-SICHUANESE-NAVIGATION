@@ -18,9 +18,6 @@ The dataset is suitable for evaluating the transcription accuracy, domain-keywor
 - **Recording device:** Mobile phone
 - **Recording environment:** Quiet indoor
 
-![[Codex 图像 2026年8月31日 15_36_55.svg|156]]![[city-distribution.png|234]]
-
-Figure 1: Gender distribution of dataset speakers ; Figure 2: City distribution of dataset speakers
 
 ## Data Composition
 
